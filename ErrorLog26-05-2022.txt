@@ -1,0 +1,6 @@
+line 591 : Violation of UNIQUE KEY constraint 'UQ__Rundownl__3213E83EA80051B9'. Cannot insert duplicate key in object 'dbo.RundownlistDetails'. The duplicate key value is (9).
+Violation of UNIQUE KEY constraint 'UQ__Rundownl__3213E83EA80051B9'. Cannot insert duplicate key in object 'dbo.RundownlistDetails'. The duplicate key value is (7).
+The statement has been terminated.
+The statement has been terminated. : Exception : : 26-05-2022 10:28:30
+line 591 : Violation of UNIQUE KEY constraint 'UQ__Rundownl__3213E83EA80051B9'. Cannot insert duplicate key in object 'dbo.RundownlistDetails'. The duplicate key value is (8).
+The statement has been terminated. : Exception : : 26-05-2022 10:43:56

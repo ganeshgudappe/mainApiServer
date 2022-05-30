@@ -1,0 +1,16 @@
+line 50 : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) : Exception : : 30-05-2022 14:45:12
+line 288 : Column name or number of supplied values does not match table definition. : Exception : : 30-05-2022 14:51:22
+line 288 : Column name or number of supplied values does not match table definition. : Exception : : 30-05-2022 14:53:23
+line 288 : Column name or number of supplied values does not match table definition. : Exception : : 30-05-2022 14:53:26
+line 288 : The variable name '@time' has already been declared. Variable names must be unique within a query batch or stored procedure. : Exception : : 30-05-2022 14:54:40
+line 288 : Column name or number of supplied values does not match table definition. : Exception : : 30-05-2022 14:55:12
+line 288 : Column name or number of supplied values does not match table definition. : Exception : : 30-05-2022 14:55:21
+line 239 : Column name or number of supplied values does not match table definition. : Exception : : 30-05-2022 14:56:55
+line 239 : Column name or number of supplied values does not match table definition. : Exception : : 30-05-2022 14:57:07
+line 1084 : Invalid object name 'users'. : Exception : : 30-05-2022 17:18:44
+line 1084 : Invalid object name 'users'. : Exception : : 30-05-2022 17:19:21
+line 1084 : Invalid object name 'users'. : Exception : : 30-05-2022 17:19:23
+line 1084 : Invalid object name 'users'. : Exception : : 30-05-2022 17:19:41
+line 1084 : Invalid object name 'users'. : Exception : : 30-05-2022 17:19:44
+line 1084 : Invalid object name 'users'. : Exception : : 30-05-2022 17:20:08
+line 1084 : Invalid object name 'users'. : Exception : : 30-05-2022 17:20:10

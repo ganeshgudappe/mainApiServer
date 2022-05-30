@@ -1,0 +1,11 @@
+line 1066 : An expression of non-boolean type specified in a context where a condition is expected, near 'userId71'. : Exception : : 20-05-2022 17:58:36
+line 1093 : 'Microsoft.AspNetCore.Mvc.JsonResult' does not contain a definition for 'values' : Exception : : 20-05-2022 18:17:56
+line 1085 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index : Exception : : 20-05-2022 18:54:28
+line 1089 : StartIndex cannot be less than zero.
+Parameter name: startIndex : Exception : : 20-05-2022 18:57:58
+line 1066 : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) : Exception : : 20-05-2022 19:08:06
+line 1091 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index : Exception : : 20-05-2022 19:08:39
+line 1091 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index : Exception : : 20-05-2022 19:08:58
